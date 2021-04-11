@@ -1,1 +1,1 @@
-# AI-for-Healthcare---Exercise
+# Udacity - AI-for-Healthcare - Exercise
